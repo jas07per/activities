@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "755154326181",
+    "project_id": "bootcamp-todos-c30f6",
+    "storage_bucket": "bootcamp-todos-c30f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755154326181:android:7b05099b71279c0624734c",
+        "android_client_info": {
+          "package_name": "com.dds.bootcamp_todos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755154326181-lnu4kkpove0u37c2v8f9chu834903f1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFCyMDAzE1iRGHGW1Ki397mddCXvRxzDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755154326181-lnu4kkpove0u37c2v8f9chu834903f1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755154326181:android:1131dacdb26e471024734c",
+        "android_client_info": {
+          "package_name": "com.dds.bootcamp_todos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755154326181-lnu4kkpove0u37c2v8f9chu834903f1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFCyMDAzE1iRGHGW1Ki397mddCXvRxzDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755154326181-lnu4kkpove0u37c2v8f9chu834903f1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
