@@ -60,26 +60,20 @@ class _TweetsPageState extends State<TweetsPage> {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               if (data['title'] is String)
-                                Text(
-                                  // Add this to read the title property
-                                  data['title'],
+                                Text('Title: ${data['title']}',
                                   style: const TextStyle(
                                     fontSize: 24,
                                     fontWeight: FontWeight.bold,
                                   ),
                                 ),
                               if (data['description'] is String)
-                                Text(
-                                  // Add this to read the description property
-                                  data['description'],
+                                Text('Description: ${data['description']}',
                                   style: const TextStyle(
                                     fontSize: 16,
                                   ),
                                 ),
                               if (data['date'] is String)
-                                Text(
-                                  // Add this to read the description property
-                                  data['date'],
+                                Text('Date: ${data['date']}',
                                   style: const TextStyle(
                                     fontSize: 16,
                                   ),
